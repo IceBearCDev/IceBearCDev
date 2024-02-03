@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi there! 👋 I'm IceBearC
 
-<!--
-**IceBearCDev/IceBearCDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Passionate developer and creator of Krnl, a powerful scripting executor for Roblox. I love diving into the world of code and building tools that empower fellow developers.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on enhancing Krnl's features and performance.
+- 🌱 Always learning and exploring new technologies.
+- 💬 Let's connect and talk about code, game development, or anything tech-related!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+
+### Krnl
+Krnl is a high-level scripting executor for Roblox. It's designed to provide a seamless and powerful scripting experience for developers.
+
+- 💡 Explore Krnl's features and documentation at [Krnl GitHub Repository](https://github.com/icebearcdev/krnl)
+
+### [Your Other Project Name]
+[Description and link to your other notable project]
+
+## Get in Touch
+
+- 🐦 Twitter: [@IceBearC](https://twitter.com/IceBearC)
+- 📧 Email: [icebearc@mail.secs]
+
+## Stats
+
+![IceBearC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=icebearcdev&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icebearc&layout=compact)](https://github.com/icebearc/github-readme-stats)
